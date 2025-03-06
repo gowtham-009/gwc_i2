@@ -1,6 +1,6 @@
 <template>
     <div id="main-menu" class="wsmainfull menu clearfix">
-        <div class="wsmainwp clearfix">
+        <div class="wsmainwp clearfix" style=" margin-left: 6%;">
             <div class="desktoplogo ">
                 <NuxtLink to="/" class="logo-black "><img src="/assets/images/gwc-logo.webp" class="rounded" alt="logo" style="min-height: 60px;" /></NuxtLink>
             </div>
