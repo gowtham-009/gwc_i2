@@ -20,7 +20,7 @@
     useHead({
         bodyAttrs: {
            // class: "navbar-dark navbar-dark-2 "
-             class: "navbar-light navbar-dark-2"
+             class: "navbar-light "
         },
     })
 </script>

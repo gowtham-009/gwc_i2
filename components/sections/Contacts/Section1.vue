@@ -1,5 +1,5 @@
 <template>
-    <section id="contacts-1" class="pb-50 inner-page-hero contacts-section division bg-color">
+    <section id="contacts-1" class="gr--whitesmoke pb-50 inner-page-hero contacts-section division bg-color">
         <div class="container">
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">

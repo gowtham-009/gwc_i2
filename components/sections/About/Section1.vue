@@ -1,5 +1,5 @@
 <template>
-    <section id="about-2" class="rel inner-page-hero about-section division bg-color">
+    <section id="about-2" class="gr--whitesmoke inner-page-hero about-section division bg-color">
         <!-- ABOUT-2 TITLE -->
         <div class="container">
             <div class="row">
